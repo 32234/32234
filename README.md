@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @32234 aka. t1
 - 👀 I’m interested in Blockchain protocals and online traffic process.
 - 🌱 I’m currently learning blockchains and DPDK.
-- 📫 How to reach me 809595488@qq.com.
+<!-- - 📫 How to reach me 809595488@qq.com. -->
 - ✨ Dreaming of being a philosopher.
 - 💗 Chicken U R so beautiful.
 <!---
