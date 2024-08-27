@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @32234 aka. ibin
 - 👀 I’m interested in Blockchain protocols and online traffic process.
 - 🌱 I’m currently learning DPDK.
-- 💻 Work experience in Internet server(backend) development.
+- 💻 Working experience in Internet server (backend) development.
 <!-- - 📫 How to reach me 809595488@qq.com. -->
 - ✨ Dreaming of being a philosopher.
 - 💗 Chicken U R so beautiful.
