@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @32234 aka. Love U Deeply
+### 👋 Hi, I’m @32234 aka. ibin
 - 👀 I’m interested in Blockchain protocals and online traffic process.
 - 🌱 I’m currently learning blockchains and DPDK.
 <!-- - 📫 How to reach me 809595488@qq.com. -->
